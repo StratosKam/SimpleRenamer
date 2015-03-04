@@ -122,7 +122,7 @@ public class SimpleRenamerFX extends Application {
                 event.consume();
             }
         });
-        mainStage.setTitle("The Renames Guy");
+        mainStage.setTitle("Simple Renamer");
         mainStage.setScene(mainScene);
         mainStage.show();
     }
